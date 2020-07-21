@@ -27,6 +27,6 @@ Feel free to contact me if you have any questions or want to ask me any commissi
 **Operating System**: Mac OS, Windows 10, Ubuntu and Arch Linux <br>
 **Browser**: Firefox <br>
 
-<p align="center">The desire to create is one of the deepest yearnings of the human soul. No matter our talents, education, backgrounds, or abilities, we each have an inherent wish to create something that did not exist before.” - Dieter F. Uchtdorf </p>
+<p align="center">"The desire to create is one of the deepest yearnings of the human soul. No matter our talents, education, backgrounds, or abilities, we each have an inherent wish to create something that did not exist before.” - Dieter F. Uchtdorf </p>
 
 <p align="center"> </p>
