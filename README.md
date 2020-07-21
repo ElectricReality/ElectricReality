@@ -7,7 +7,7 @@ I am a 16 year old epic **Gamer** and **Programmer** who loves to write code. I 
 
 Feel free to contact me if you have any questions or want to ask me any commissions. Yep, i do commissions on converting or creating Graphics Design, Websites and UI Design.
 
-#### My Projects
+### My Projects
 [![TopCord](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=TopCord-Documentation)](https://github.com/ElectricReality/TopCord-Documentation)
 [![Discord Lister](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=discord-lister)](https://github.com/ElectricReality/discord-lister)
 [![Axel](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=Axel)](https://github.com/ElectricReality/Axel)
@@ -15,13 +15,13 @@ Feel free to contact me if you have any questions or want to ask me any commissi
 
 - **HypeBot**: A bot that yeets on your servers! [Website!](https://hypebot.pw)
 
-#### Languages
+### Languages
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
-#### My Setup
+### My Setup
 **Color Theme**: Nord Theme, Dark Mode <br>
 **Text Editor**: Visual Studio Code <br>
 **Operating System**: Mac OS, Windows 10, Ubuntu and Arch Linux <br>
