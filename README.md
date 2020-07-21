@@ -1,2 +1,1 @@
-## Hello There!
-# My name is ElectricReality
+## Hewo World! I am [ElectricReality](https://github.com/ElectricReality)
