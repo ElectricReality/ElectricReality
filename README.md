@@ -13,4 +13,20 @@ Feel free to contact me if you have any questions or want to ask me any commissi
 [![Axel](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=Axel)](https://github.com/ElectricReality/Axel)
 [![BedrockEngine](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=BedrockEngine)](https://github.com/ElectricReality/BedrockEngine)
 
+- **HypeBot**: A bot that yeets on your servers! [Website!](https://hypebot.pw)
+
 #### Languages
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+
+#### My Setup
+**Color Theme**: Nord Theme, Dark Mode <br>
+**Text Editor**: Visual Studio Code <br>
+**Operating System**: Mac OS, Windows 10, Ubuntu and Arch Linux <br>
+**Browser**: Firefox <br>
+
+<p align="center">The desire to create is one of the deepest yearnings of the human soul. No matter our talents, education, backgrounds, or abilities, we each have an inherent wish to create something that did not exist before.” - Dieter F. Uchtdorf </p>
+
+<p align="center"> </p>
