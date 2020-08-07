@@ -11,6 +11,7 @@ Feel free to contact me if you have any questions or want to ask me any commissi
 [![Discord Lister](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=discord-lister)](https://github.com/ElectricReality/discord-lister)
 [![Axel](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=Axel)](https://github.com/ElectricReality/Axel)
 [![BedrockEngine](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=BedrockEngine)](https://github.com/ElectricReality/BedrockEngine)
+[![The Gallery](https://github-readme-stats.vercel.app/api/pin/?username=ElectricReality&repo=The-Gallery)](https://github.com/ElectricReality/The-Gallery)
 
 - **HypeBot**: A bot that yeets on your servers! [Website!](https://hypebot.pw)
 
